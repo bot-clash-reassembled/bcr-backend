@@ -10,6 +10,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "12": {
@@ -20,6 +21,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "13": {
@@ -34,6 +36,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "machine-gun_v1",
+        "part.category": "weapon",
         "part.id": "dbe2eeab-4b75-43f2-baa7-3608a1ff052f"
       },
       "14": {
@@ -44,6 +47,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "21": {
@@ -55,6 +59,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "22": {
@@ -66,6 +71,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "23": {
@@ -77,6 +83,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "29": {
@@ -86,6 +93,7 @@
         "hit_points.max": 4,
         "hit_points.left": 4,
         "part.drawing.function": "steel-armor_v1",
+        "part.category": "armor",
         "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
       },
       "30": {
@@ -96,6 +104,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "31": {
@@ -106,6 +115,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "32": {
@@ -116,6 +126,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "33": {
@@ -125,6 +136,7 @@
         "hit_points.max": 4,
         "hit_points.left": 4,
         "part.drawing.function": "steel-armor_v1",
+        "part.category": "armor",
         "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
       },
       "38": {
@@ -135,6 +147,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "39": {
@@ -145,6 +158,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "40": {
@@ -155,6 +169,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "41": {
@@ -165,6 +180,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "42": {
@@ -175,6 +191,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "48": {
@@ -185,6 +202,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "49": {
@@ -195,6 +213,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "50": {
@@ -205,6 +224,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "58": {
@@ -215,6 +235,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       }
     }
@@ -230,6 +251,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "12": {
@@ -240,6 +262,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "13": {
@@ -255,6 +278,7 @@
         "cooldown.turns": 1,
         "damage.splash.function": "pierce",
         "damage.splash.params": 3,
+        "part.category": "weapon",
         "part.id": "6f143cec-f1ce-4988-b30d-8674aee8a4bc"
       },
       "14": {
@@ -265,6 +289,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "21": {
@@ -276,6 +301,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "22": {
@@ -287,6 +313,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "23": {
@@ -298,6 +325,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "29": {
@@ -307,6 +335,7 @@
         "hit_points.max": 4,
         "hit_points.left": 4,
         "part.drawing.function": "steel-armor_v1",
+        "part.category": "armor",
         "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
       },
       "30": {
@@ -317,6 +346,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "31": {
@@ -327,6 +357,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "32": {
@@ -337,6 +368,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "33": {
@@ -346,6 +378,7 @@
         "hit_points.max": 4,
         "hit_points.left": 4,
         "part.drawing.function": "steel-armor_v1",
+        "part.category": "armor",
         "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
       },
       "38": {
@@ -356,6 +389,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "39": {
@@ -366,6 +400,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "40": {
@@ -376,6 +411,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "41": {
@@ -386,6 +422,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "42": {
@@ -396,6 +433,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "48": {
@@ -406,6 +444,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "49": {
@@ -416,6 +455,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "50": {
@@ -426,6 +466,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "58": {
@@ -436,6 +477,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       }
     }
@@ -451,6 +493,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "12": {
@@ -461,6 +504,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "13": {
@@ -476,6 +520,7 @@
         "damage.splash.params": 3,
         "part.drawing.function": "missile-launcher_v1",
         "damage.splash.function": "explosion",
+        "part.category": "weapon",
         "part.id": "63997205-08a1-4cab-b81f-42ce90194a64"
       },
       "14": {
@@ -486,6 +531,7 @@
         "hit_points.max": 6,
         "hit_points.left": 6,
         "part.drawing.function": "active-steel-armor_v1",
+        "part.category": "armor",
         "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
       },
       "21": {
@@ -497,6 +543,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "22": {
@@ -508,6 +555,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "23": {
@@ -519,6 +567,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "29": {
@@ -528,6 +577,7 @@
         "hit_points.max": 4,
         "hit_points.left": 4,
         "part.drawing.function": "steel-armor_v1",
+        "part.category": "armor",
         "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
       },
       "30": {
@@ -539,6 +589,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "31": {
@@ -549,6 +600,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "32": {
@@ -560,6 +612,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "cpu_v1",
+        "part.category": "ap",
         "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
       },
       "33": {
@@ -569,6 +622,7 @@
         "hit_points.max": 4,
         "hit_points.left": 4,
         "part.drawing.function": "steel-armor_v1",
+        "part.category": "armor",
         "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
       },
       "38": {
@@ -579,6 +633,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "39": {
@@ -589,6 +644,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "40": {
@@ -599,6 +655,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "41": {
@@ -609,6 +666,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "42": {
@@ -619,6 +677,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "power_v1",
+        "part.category": "power",
         "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
       },
       "47": {
@@ -629,6 +688,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "48": {
@@ -639,6 +699,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "49": {
@@ -649,6 +710,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "50": {
@@ -659,6 +721,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "51": {
@@ -669,6 +732,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "56": {
@@ -679,6 +743,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "58": {
@@ -689,6 +754,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       },
       "60": {
@@ -699,6 +765,7 @@
         "hit_points.max": 1,
         "hit_points.left": 1,
         "part.drawing.function": "engine_v1",
+        "part.category": "weight",
         "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
       }
     }
