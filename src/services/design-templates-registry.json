@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Machine Gun Bot v1.1",
+    "parts": {
+      "4": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "12": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "13": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Heavy Machine Gun",
+        "part.description.en": "Weapon of rapid fire & capable of bursting damage x2",
+        "action_points": -1,
+        "cooldown.turns": 0.5,
+        "damage.hp.base": 1,
+        "damage.hp.aux": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "machine-gun_v1",
+        "part.id": "dbe2eeab-4b75-43f2-baa7-3608a1ff052f"
+      },
+      "14": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "21": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "22": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "23": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "29": {
+        "weight": -2,
+        "part.name.en": "Steel Armor",
+        "part.description.en": "Tough & heavy piece of metal which blocks incoming damage",
+        "hit_points.max": 4,
+        "hit_points.left": 4,
+        "part.drawing.function": "steel-armor_v1",
+        "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
+      },
+      "30": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "31": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "32": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "33": {
+        "weight": -2,
+        "part.name.en": "Steel Armor",
+        "part.description.en": "Tough & heavy piece of metal which blocks incoming damage",
+        "hit_points.max": 4,
+        "hit_points.left": 4,
+        "part.drawing.function": "steel-armor_v1",
+        "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
+      },
+      "38": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "39": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "40": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "41": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "42": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "48": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "49": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "50": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "58": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      }
+    }
+  },
+  {
+    "name": "Nail Gun Bot v1.1",
+    "parts": {
+      "4": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "12": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "13": {
+        "part.name.en": "NailGun MK1",
+        "part.description.en": "Nails pierce parts along the line of shooting",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "damage.hp.base": 3,
+        "action_points": -3,
+        "power": -2,
+        "weight": -1,
+        "part.drawing.function": "nailgun_v1",
+        "cooldown.turns": 1,
+        "damage.splash.function": "pierce",
+        "damage.splash.params": 3,
+        "part.id": "6f143cec-f1ce-4988-b30d-8674aee8a4bc"
+      },
+      "14": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "21": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "22": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "23": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "29": {
+        "weight": -2,
+        "part.name.en": "Steel Armor",
+        "part.description.en": "Tough & heavy piece of metal which blocks incoming damage",
+        "hit_points.max": 4,
+        "hit_points.left": 4,
+        "part.drawing.function": "steel-armor_v1",
+        "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
+      },
+      "30": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "31": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "32": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "33": {
+        "weight": -2,
+        "part.name.en": "Steel Armor",
+        "part.description.en": "Tough & heavy piece of metal which blocks incoming damage",
+        "hit_points.max": 4,
+        "hit_points.left": 4,
+        "part.drawing.function": "steel-armor_v1",
+        "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
+      },
+      "38": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "39": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "40": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "41": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "42": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "48": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "49": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "50": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "58": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      }
+    }
+  },
+  {
+    "name": "Missile Launcher Bot v1.1",
+    "parts": {
+      "4": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "12": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "13": {
+        "power": -2,
+        "weight": -2,
+        "part.name.en": "Missile Launcher XF-1",
+        "part.description.en": "Devastating explosive missiles but slow rate of fire",
+        "action_points": -5,
+        "cooldown.turns": 2,
+        "damage.hp.base": 5,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "damage.splash.params": 3,
+        "part.drawing.function": "missile-launcher_v1",
+        "damage.splash.function": "explosion",
+        "part.id": "63997205-08a1-4cab-b81f-42ce90194a64"
+      },
+      "14": {
+        "power": -1,
+        "weight": -2,
+        "part.name.en": "Active Steel Armor",
+        "part.description.en": "Even tougher armor which consumes energy",
+        "hit_points.max": 6,
+        "hit_points.left": 6,
+        "part.drawing.function": "active-steel-armor_v1",
+        "part.id": "5a0c81bc-e7b2-448b-be27-d23d2c0490c3"
+      },
+      "21": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "22": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "23": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "29": {
+        "weight": -2,
+        "part.name.en": "Steel Armor",
+        "part.description.en": "Tough & heavy piece of metal which blocks incoming damage",
+        "hit_points.max": 4,
+        "hit_points.left": 4,
+        "part.drawing.function": "steel-armor_v1",
+        "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
+      },
+      "30": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "31": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "32": {
+        "power": -1,
+        "weight": -1,
+        "part.name.en": "Silicon CPU Mark I",
+        "part.description.en": "CPU is used for targeting & firing bot weapons",
+        "action_points": 1,
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "cpu_v1",
+        "part.id": "73c2a233-3ab6-4bb9-8d69-23ad0b4ddf89"
+      },
+      "33": {
+        "weight": -2,
+        "part.name.en": "Steel Armor",
+        "part.description.en": "Tough & heavy piece of metal which blocks incoming damage",
+        "hit_points.max": 4,
+        "hit_points.left": 4,
+        "part.drawing.function": "steel-armor_v1",
+        "part.id": "6963bcec-5e73-45b3-9187-8daf23a304b2"
+      },
+      "38": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "39": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "40": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "41": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "42": {
+        "power": 3,
+        "weight": -1,
+        "part.name.en": "Power Block SC1",
+        "part.description.en": "This block powers up parts which require energy",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "power_v1",
+        "part.id": "d1ecac4e-0ff7-4891-a477-aa47e56c2666"
+      },
+      "47": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "48": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "49": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "50": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "51": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "56": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "58": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      },
+      "60": {
+        "power": -1,
+        "weight": 3,
+        "part.name.en": "Gasoline Engine v1",
+        "part.description.en": "Engine allows bot to carry around weight of its parts",
+        "hit_points.max": 1,
+        "hit_points.left": 1,
+        "part.drawing.function": "engine_v1",
+        "part.id": "8815c1fc-189c-41f3-bd7b-2c9376e2ca1c"
+      }
+    }
+  }
+]

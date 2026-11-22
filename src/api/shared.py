@@ -1,0 +1,1 @@
+SESSION_TOKEN_COOKIE_NAME = "bcr_session"

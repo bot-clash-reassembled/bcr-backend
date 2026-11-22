@@ -1,0 +1,43 @@
+@baseUrl = http://localhost:8000/api/v1
+@battleToReplayId =
+@participationId =
+
+
+# BATTLES
+
+### Replay battle
+
+GET {{baseUrl}}/battles/{{battleToReplayId}}/replay
+
+
+### List battles
+
+GET {{baseUrl}}/battles?participation_id={{participationId}}
+
+
+# PARTICIPATIONS
+
+### List participations
+
+GET {{baseUrl}}/participations
+
+
+# PARTS
+
+### Parts registry
+
+GET {{baseUrl}}/parts
+
+
+# DESIGNS
+
+### List designs
+
+GET {{baseUrl}}/designs
+
+
+# AUTH
+
+### Current user
+
+GET {{baseUrl}}/auth/me

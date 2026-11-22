@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "bcr-battle-poc"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Ivanov"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.1.0"
+fastapi = "^0.136.3"
+uvicorn = "^0.48.0"
+sse-starlette = "^3.4.4"
+pydantic = "^2.13.4"
+sqlalchemy = { version = "^2.0", extras = ["asyncio", "postgresql", "postgresql-asyncpg"] }
+pydantic_settings = "^2.13.1"
+alembic = "^1.18.5"
+typing-extensions = "^4.16.0"
+pyjwt = "^2.13.0"
+cryptography = "^49.0.0"
+anyio = "^4.14.1"
+geoip2 = "^5.3.0"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.11.4"
+httpx = "^0.28.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
